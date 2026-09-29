@@ -4,9 +4,8 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="test" content="testing" />
     <!-- Google Tag Manager -->
-    <meta name="description" content="" />
+    
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
     j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
@@ -25,12 +24,12 @@
 <meta property="og:url" content="https://meshery.io/catalog/webassembly/" />
 <meta property="og:site_name" content="Meshery" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2026-09-14T16:01:54+00:00" />
-<meta property="article:modified_time" content="2026-09-14T16:01:54+00:00" />
+<meta property="article:published_time" content="2026-09-29T08:21:29+00:00" />
+<meta property="article:modified_time" content="2026-09-29T08:21:29+00:00" />
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content="Cloud Native Catalog" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"The Meshery Authors"},"dateModified":"2026-09-14T16:01:54+00:00","datePublished":"2026-09-14T16:01:54+00:00","description":"WASM FILTER HTTP Auth FILTER001 WASM FILTER &lt;/a&gt; &times; RELATED DESIGNS HTTP AUTH What this filter does Simulates handling authentication of requests at proxy level. Requests with a header token with value hello are accepted as authorized while the rest unauthorized. The actual authentication is handled by the Upstream server. Whenever the proxy receives a request it extracts the token header and makes a request to the Upstream server which validates the token and returns a response. ...read more Caveats and Considerations Test: curl -H &quot;token&quot;:&quot;hello&quot; 0.0.0.0:18000 -v # Authorized curl -H &quot;token&quot;:&quot;world&quot; 0.0.0.0:18000 -v # Unauthorized Technologies Related Design…","headline":"Cloud Native Catalog","mainEntityOfPage":{"@type":"WebPage","@id":"https://meshery.io/catalog/webassembly/"},"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://meshery.io/assets/images/logos/meshery-gradient.png"},"name":"The Meshery Authors"},"url":"https://meshery.io/catalog/webassembly/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"The Meshery Authors"},"dateModified":"2026-09-29T08:21:29+00:00","datePublished":"2026-09-29T08:21:29+00:00","description":"WASM FILTER HTTP Auth FILTER001 WASM FILTER &lt;/a&gt; &times; RELATED DESIGNS HTTP AUTH What this filter does Simulates handling authentication of requests at proxy level. Requests with a header token with value hello are accepted as authorized while the rest unauthorized. The actual authentication is handled by the Upstream server. Whenever the proxy receives a request it extracts the token header and makes a request to the Upstream server which validates the token and returns a response. ...read more Caveats and Considerations Test: curl -H &quot;token&quot;:&quot;hello&quot; 0.0.0.0:18000 -v # Authorized curl -H &quot;token&quot;:&quot;world&quot; 0.0.0.0:18000 -v # Unauthorized Technologies Related Design…","headline":"Cloud Native Catalog","mainEntityOfPage":{"@type":"WebPage","@id":"https://meshery.io/catalog/webassembly/"},"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://meshery.io/assets/images/logos/meshery-gradient.png"},"name":"The Meshery Authors"},"url":"https://meshery.io/catalog/webassembly/"}</script>
 <!-- End Jekyll SEO tag -->
  <link type="application/atom+xml" rel="alternate" href="https://meshery.io/feed.xml" title="Meshery" /> 
     <link rel="stylesheet" href="/css/stellarnav.css" />
@@ -147,7 +146,7 @@
             id="logo-dark-light" />
         </a>
       </div>
-      <nav class="navmenu-container" style="margin-left: 10rem; width: 60%;">
+      <nav class="navmenu-container">
 	<div class="stellarnav">
 		<ul class="nav-list">
 			
@@ -684,11 +683,11 @@
 
   .feature-container {
     gap: 40px;
+    margin-top: 5rem;
   }
 
   @media screen and (min-width: 600px) {
     .feature-container {
-      margin-top: 10rem;
       min-height: 600px;
     }
   }
@@ -949,7 +948,7 @@ function openTab(evt, tabName) {
         >
           <p class="text-sm-medium title">Designs</p>
           <span class="count-text" style="color: #00b39f">
-            359
+            361
           </span>
         </div>
         <div style="height: 3rem; width: 5rem">
@@ -1225,6 +1224,10 @@ function openTab(evt, tabName) {
       <div class="related-patterns-img">
         <h4 class="related-patterns">RELATED DESIGNS</h4>
         <!-- more conditions will be needed to be added when more patterns are introduced.  -->
+
+    
+
+    
 
     
 
@@ -2710,6 +2713,10 @@ function openTab(evt, tabName) {
 
     
 
+    
+
+    
+
 
       </div>
    
@@ -2765,24 +2772,19 @@ function openTab(evt, tabName) {
 </div>
 
 <script>
-  // Lazy load the catalog-modal.js script
-  function loadCatalogModalScript() {
+  window.loadedScripts = window.loadedScripts || new Set();
+
+  function loadScriptOnce(src) {
+    if (window.loadedScripts.has(src)) return;
+    window.loadedScripts.add(src);
     const script = document.createElement("script");
-    script.src = "/assets/js/catalog-modal.js";
+    script.src = src;
     document.body.appendChild(script);
   }
-
-  // Lazy load the thumbnail-clickable.js script
-  function loadThumbnailClickableScript() {
-    const script = document.createElement("script");
-    script.src = "/assets/js/thumbnail-clickable.js";
-    document.body.appendChild(script);
-  }
-
   // Lazy load scripts when the modal is opened
   document.getElementById("open-modal").addEventListener("click", () => {
-    loadCatalogModalScript();
-    loadThumbnailClickableScript();
+    loadScriptOnce("/assets/js/catalog-modal.js");
+    loadScriptOnce("/assets/js/thumbnail-clickable.js");
   });
 
 
@@ -2901,6 +2903,10 @@ function openTab(evt, tabName) {
       <div class="related-patterns-img">
         <h4 class="related-patterns">RELATED DESIGNS</h4>
         <!-- more conditions will be needed to be added when more patterns are introduced.  -->
+
+    
+
+    
 
     
 
@@ -4386,6 +4392,10 @@ function openTab(evt, tabName) {
 
     
 
+    
+
+    
+
 
       </div>
    
@@ -4441,24 +4451,19 @@ function openTab(evt, tabName) {
 </div>
 
 <script>
-  // Lazy load the catalog-modal.js script
-  function loadCatalogModalScript() {
+  window.loadedScripts = window.loadedScripts || new Set();
+
+  function loadScriptOnce(src) {
+    if (window.loadedScripts.has(src)) return;
+    window.loadedScripts.add(src);
     const script = document.createElement("script");
-    script.src = "/assets/js/catalog-modal.js";
+    script.src = src;
     document.body.appendChild(script);
   }
-
-  // Lazy load the thumbnail-clickable.js script
-  function loadThumbnailClickableScript() {
-    const script = document.createElement("script");
-    script.src = "/assets/js/thumbnail-clickable.js";
-    document.body.appendChild(script);
-  }
-
   // Lazy load scripts when the modal is opened
   document.getElementById("open-modal").addEventListener("click", () => {
-    loadCatalogModalScript();
-    loadThumbnailClickableScript();
+    loadScriptOnce("/assets/js/catalog-modal.js");
+    loadScriptOnce("/assets/js/thumbnail-clickable.js");
   });
 
 
@@ -4577,6 +4582,10 @@ function openTab(evt, tabName) {
       <div class="related-patterns-img">
         <h4 class="related-patterns">RELATED DESIGNS</h4>
         <!-- more conditions will be needed to be added when more patterns are introduced.  -->
+
+    
+
+    
 
     
 
@@ -6062,6 +6071,10 @@ function openTab(evt, tabName) {
 
     
 
+    
+
+    
+
 
       </div>
    
@@ -6117,24 +6130,19 @@ function openTab(evt, tabName) {
 </div>
 
 <script>
-  // Lazy load the catalog-modal.js script
-  function loadCatalogModalScript() {
+  window.loadedScripts = window.loadedScripts || new Set();
+
+  function loadScriptOnce(src) {
+    if (window.loadedScripts.has(src)) return;
+    window.loadedScripts.add(src);
     const script = document.createElement("script");
-    script.src = "/assets/js/catalog-modal.js";
+    script.src = src;
     document.body.appendChild(script);
   }
-
-  // Lazy load the thumbnail-clickable.js script
-  function loadThumbnailClickableScript() {
-    const script = document.createElement("script");
-    script.src = "/assets/js/thumbnail-clickable.js";
-    document.body.appendChild(script);
-  }
-
   // Lazy load scripts when the modal is opened
   document.getElementById("open-modal").addEventListener("click", () => {
-    loadCatalogModalScript();
-    loadThumbnailClickableScript();
+    loadScriptOnce("/assets/js/catalog-modal.js");
+    loadScriptOnce("/assets/js/thumbnail-clickable.js");
   });
 
 
@@ -6253,6 +6261,10 @@ function openTab(evt, tabName) {
       <div class="related-patterns-img">
         <h4 class="related-patterns">RELATED DESIGNS</h4>
         <!-- more conditions will be needed to be added when more patterns are introduced.  -->
+
+    
+
+    
 
     
 
@@ -7738,6 +7750,10 @@ function openTab(evt, tabName) {
 
     
 
+    
+
+    
+
 
       </div>
    
@@ -7793,24 +7809,19 @@ function openTab(evt, tabName) {
 </div>
 
 <script>
-  // Lazy load the catalog-modal.js script
-  function loadCatalogModalScript() {
+  window.loadedScripts = window.loadedScripts || new Set();
+
+  function loadScriptOnce(src) {
+    if (window.loadedScripts.has(src)) return;
+    window.loadedScripts.add(src);
     const script = document.createElement("script");
-    script.src = "/assets/js/catalog-modal.js";
+    script.src = src;
     document.body.appendChild(script);
   }
-
-  // Lazy load the thumbnail-clickable.js script
-  function loadThumbnailClickableScript() {
-    const script = document.createElement("script");
-    script.src = "/assets/js/thumbnail-clickable.js";
-    document.body.appendChild(script);
-  }
-
   // Lazy load scripts when the modal is opened
   document.getElementById("open-modal").addEventListener("click", () => {
-    loadCatalogModalScript();
-    loadThumbnailClickableScript();
+    loadScriptOnce("/assets/js/catalog-modal.js");
+    loadScriptOnce("/assets/js/thumbnail-clickable.js");
   });
 
 
@@ -7929,6 +7940,10 @@ function openTab(evt, tabName) {
       <div class="related-patterns-img">
         <h4 class="related-patterns">RELATED DESIGNS</h4>
         <!-- more conditions will be needed to be added when more patterns are introduced.  -->
+
+    
+
+    
 
     
 
@@ -9414,6 +9429,10 @@ function openTab(evt, tabName) {
 
     
 
+    
+
+    
+
 
       </div>
    
@@ -9469,24 +9488,19 @@ function openTab(evt, tabName) {
 </div>
 
 <script>
-  // Lazy load the catalog-modal.js script
-  function loadCatalogModalScript() {
+  window.loadedScripts = window.loadedScripts || new Set();
+
+  function loadScriptOnce(src) {
+    if (window.loadedScripts.has(src)) return;
+    window.loadedScripts.add(src);
     const script = document.createElement("script");
-    script.src = "/assets/js/catalog-modal.js";
+    script.src = src;
     document.body.appendChild(script);
   }
-
-  // Lazy load the thumbnail-clickable.js script
-  function loadThumbnailClickableScript() {
-    const script = document.createElement("script");
-    script.src = "/assets/js/thumbnail-clickable.js";
-    document.body.appendChild(script);
-  }
-
   // Lazy load scripts when the modal is opened
   document.getElementById("open-modal").addEventListener("click", () => {
-    loadCatalogModalScript();
-    loadThumbnailClickableScript();
+    loadScriptOnce("/assets/js/catalog-modal.js");
+    loadScriptOnce("/assets/js/thumbnail-clickable.js");
   });
 
 
@@ -9605,6 +9619,10 @@ function openTab(evt, tabName) {
       <div class="related-patterns-img">
         <h4 class="related-patterns">RELATED DESIGNS</h4>
         <!-- more conditions will be needed to be added when more patterns are introduced.  -->
+
+    
+
+    
 
     
 
@@ -11090,6 +11108,10 @@ function openTab(evt, tabName) {
 
     
 
+    
+
+    
+
 
       </div>
    
@@ -11145,24 +11167,19 @@ function openTab(evt, tabName) {
 </div>
 
 <script>
-  // Lazy load the catalog-modal.js script
-  function loadCatalogModalScript() {
+  window.loadedScripts = window.loadedScripts || new Set();
+
+  function loadScriptOnce(src) {
+    if (window.loadedScripts.has(src)) return;
+    window.loadedScripts.add(src);
     const script = document.createElement("script");
-    script.src = "/assets/js/catalog-modal.js";
+    script.src = src;
     document.body.appendChild(script);
   }
-
-  // Lazy load the thumbnail-clickable.js script
-  function loadThumbnailClickableScript() {
-    const script = document.createElement("script");
-    script.src = "/assets/js/thumbnail-clickable.js";
-    document.body.appendChild(script);
-  }
-
   // Lazy load scripts when the modal is opened
   document.getElementById("open-modal").addEventListener("click", () => {
-    loadCatalogModalScript();
-    loadThumbnailClickableScript();
+    loadScriptOnce("/assets/js/catalog-modal.js");
+    loadScriptOnce("/assets/js/thumbnail-clickable.js");
   });
 
 
@@ -11281,6 +11298,10 @@ function openTab(evt, tabName) {
       <div class="related-patterns-img">
         <h4 class="related-patterns">RELATED DESIGNS</h4>
         <!-- more conditions will be needed to be added when more patterns are introduced.  -->
+
+    
+
+    
 
     
 
@@ -12766,6 +12787,10 @@ function openTab(evt, tabName) {
 
     
 
+    
+
+    
+
 
       </div>
    
@@ -12821,24 +12846,19 @@ function openTab(evt, tabName) {
 </div>
 
 <script>
-  // Lazy load the catalog-modal.js script
-  function loadCatalogModalScript() {
+  window.loadedScripts = window.loadedScripts || new Set();
+
+  function loadScriptOnce(src) {
+    if (window.loadedScripts.has(src)) return;
+    window.loadedScripts.add(src);
     const script = document.createElement("script");
-    script.src = "/assets/js/catalog-modal.js";
+    script.src = src;
     document.body.appendChild(script);
   }
-
-  // Lazy load the thumbnail-clickable.js script
-  function loadThumbnailClickableScript() {
-    const script = document.createElement("script");
-    script.src = "/assets/js/thumbnail-clickable.js";
-    document.body.appendChild(script);
-  }
-
   // Lazy load scripts when the modal is opened
   document.getElementById("open-modal").addEventListener("click", () => {
-    loadCatalogModalScript();
-    loadThumbnailClickableScript();
+    loadScriptOnce("/assets/js/catalog-modal.js");
+    loadScriptOnce("/assets/js/thumbnail-clickable.js");
   });
 
 
@@ -13060,6 +13080,8 @@ function openTab(evt, tabName) {
         const filterValue = card.getAttribute("filter")?.toLowerCase();
         return filterValue?.includes(searchTerm);
         });
+
+        let currentPage = 0;
 
         // Hide all cards first (batch operation)
         allPatternCards.forEach(card => {
@@ -13485,6 +13507,7 @@ function openTab(evt, tabName) {
 	function displayCode(id) {
 		var divId = id + "_code";
 		var element = document.getElementById(divId);
+		var isOpening = !element.classList.contains("showDiv");
 		element.classList.toggle("showDiv");
 		var toggleDivs = document.getElementsByClassName("toggle");
 		if (element.style.maxHeight) {
@@ -13500,6 +13523,10 @@ function openTab(evt, tabName) {
 				}
 			}
 		}
+		var platformOptions = document.querySelectorAll(".platform-option");
+		platformOptions.forEach(function(option) {
+			option.classList.toggle("selected", option.id === id && isOpening);
+		});
 	}
 </script>
 <script type="text/javascript">
@@ -13564,71 +13591,17 @@ function openTab(evt, tabName) {
 
       responsive: [
         {
-          breakpoint: 1300,
+          breakpoint: 1140,
           settings: {
-            slidesToShow: 3,
-          }
-        },
-        {
-          breakpoint: 1200,
-          settings: {
-            slidesToShow: 3,
-          }
-        },
-        {
-          breakpoint: 1024,
-          settings: {
-            slidesToShow: 3,
+            slidesToShow: 2,
+            centerMode: false,
           }
         },
         {
           breakpoint: 800,
           settings: {
-            slidesToShow: 2,
-            slidesToScroll: 1,
-          }
-        },
-        {
-          breakpoint: 600,
-          settings: {
             slidesToShow: 1,
-            slidesToScroll: 1,
-            autoplaySpeed: 2000,
-          }
-        },
-        {
-          breakpoint: 480,
-          settings: {
-            slidesToShow: 1,
-            slidesToScroll: 1,
-            centerMode: false
-          }
-        },
-        {
-          breakpoint: 400,
-          settings: {
-            slidesToShow: 1,
-            adaptiveWidth: true,
-            slidesToScroll: 1,
-            centerMode: false
-          }
-        },
-        {
-          breakpoint: 380,
-          settings: {
-            slidesToShow: 1,
-            slidesToScroll: 1,
-            adaptiveWidth: true,
-            centerMode: false
-          }
-        },
-        {
-          breakpoint: 360,
-          settings: {
-            slidesToShow: 1,
-            slidesToScroll: 1,
-            adaptiveWidth: true,
-            centerMode: false
+            centerMode: false,
           }
         }
       ]
