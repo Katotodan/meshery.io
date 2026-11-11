@@ -314,6 +314,16 @@ Designs capture the desired state of your infrastructure, components and relatio
 
  DEPLOYMENT
 
+#### Portable Ai Interface gateway
+
+###### MESHERY4eff
+
+ ](https://meshery.io/catalog/deployment/portable-ai-interface-gateway-11c27e2d-7354-4eff-a7f1-4e6a65fe1e3b.html)
+
+[ 
+
+ DEPLOYMENT
+
 #### dremio-helm
 
 ###### MESHERY43f5
@@ -4080,7 +4090,7 @@ Designs capture the desired state of your infrastructure, components and relatio
 
  ](https://meshery.io/catalog/workloads/zookeeper-cluster-fde9c2da-e402-4f53-b7cd-02036ac65043.html)
 
-397
+398
 
 Designs
 
@@ -4689,7 +4699,7 @@ Your AI agent is already driving your terminal. The question is whether the tool
 - 
 ## [Meshery is now a CNCF Incubating Project](https://meshery.io/blog/2026/10/2026-10-10-meshery-is-now-incubating/)
 
-[announcements](https://meshery.io/blog/category/announcements/) [cncf](https://meshery.io/blog/category/cncf/) [kubecon](https://meshery.io/blog/category/kubecon/) [cloudnativecon](https://meshery.io/blog/category/cloudnativecon/) [open-source](https://meshery.io/blog/category/open-source/) [Announcements](https://meshery.io/blog/category/announcements/) October 10, 2026
+[announcements](https://meshery.io/blog/category/announcements/) [cncf](https://meshery.io/blog/category/cncf/) [kubecon](https://meshery.io/blog/category/kubecon/) [cloudnativecon](https://meshery.io/blog/category/cloudnativecon/) [open-source](https://meshery.io/blog/category/open-source/) October 10, 2026
 
 It is official: the **Cloud Native Computing Foundation (CNCF) Technical Oversight Committee has voted to accept Meshery as an Incubating project**! This marks a massive milestone in our journey from a Sandbox project to becoming the premier cloud native manager and infrastructure management platform.
 
@@ -4768,7 +4778,6 @@ In modern cloud-native environments, platform engineering teams face a persisten
 - [cncf (1)](https://meshery.io/blog/category/cncf)
 - [cloudnativecon (1)](https://meshery.io/blog/category/cloudnativecon)
 - [cloud (1)](https://meshery.io/blog/category/cloud)
-- [Announcements (1)](https://meshery.io/blog/category/announcements)
 
 ### Browse by date
 
@@ -4794,8 +4803,8 @@ In modern cloud-native environments, platform engineering teams face a persisten
 
 - #2025
   - November
-    - [The Meshery Umbrella Expands](https://meshery.io/blog/2025/meshery-ecosystem-expansion)
-    - [Meshery, the Rocket Ship](https://meshery.io/blog/sixth-highest-velocity-cncf-project)
+    - [The Meshery Umbrella Expands](https://meshery.io/blog/2025/meshery-ecosystem-expansion/)
+    - [Meshery, the Rocket Ship](https://meshery.io/blog/sixth-highest-velocity-cncf-project/)
     - [Meshery CLI Commands for Organization, Workspaces, and Connections](https://meshery.io/blog/2025/11/2025-10-31-mesheryctl-new-cmds-org-workspace/)
 
   - October
@@ -4905,45 +4914,27 @@ Page 1 of 5[Older posts →](https://meshery.io/blog/page2)
 
 ---
 
-## /blog/200-meshery-designs-on-artifacthub
+## /blog/200-meshery-designs-on-artifacthub/
 
-URL: https://meshery.io/blog/200-meshery-designs-on-artifacthub
+URL: https://meshery.io/blog/200-meshery-designs-on-artifacthub/
 
 # Redirecting…
 [Click here if you are not redirected.](https://meshery.io/blog/2024/06/2024-06-19-more-designs/)
 
 ---
 
-## /blog/2023/09/2023-9-2-meshery-badge-program
+## /blog/2025-10-30-mesheryctl-e2e-introduction/
 
-URL: https://meshery.io/blog/2023/09/2023-9-2-meshery-badge-program
-
-# Redirecting…
-[Click here if you are not redirected.](https://meshery.io/blog/2023/09/2023-9-2-meshery-badge-program/)
-
----
-
-## /blog/2025-10-30-mesheryctl-e2e-introduction
-
-URL: https://meshery.io/blog/2025-10-30-mesheryctl-e2e-introduction
+URL: https://meshery.io/blog/2025-10-30-mesheryctl-e2e-introduction/
 
 # Redirecting…
 [Click here if you are not redirected.](https://meshery.io/blog/2025/10/2025-10-30-mesehryctl-e2e-test-introduction/)
 
 ---
 
-## /blog/2025/11/2025-10-31-mesheryctl-new-cmds-org-workspace
+## /blog/announcing-mesheryctl-axi/
 
-URL: https://meshery.io/blog/2025/11/2025-10-31-mesheryctl-new-cmds-org-workspace
-
-# Redirecting…
-[Click here if you are not redirected.](https://meshery.io/blog/2025/11/2025-10-31-mesheryctl-new-cmds-org-workspace/)
-
----
-
-## /blog/announcing-mesheryctl-axi
-
-URL: https://meshery.io/blog/announcing-mesheryctl-axi
+URL: https://meshery.io/blog/announcing-mesheryctl-axi/
 
 # Redirecting…
 [Click here if you are not redirected.](https://meshery.io/blog/2026/11/2026-11-01-announcing-mesheryctl-axi/)
@@ -4976,7 +4967,7 @@ Meshery is now a CNCF Incubating project.
 - 
 ## [Meshery is now a CNCF Incubating Project](https://meshery.io/blog/2026/10/2026-10-10-meshery-is-now-incubating/)
 
-[announcements](https://meshery.io/blog/category/announcements/) [cncf](https://meshery.io/blog/category/cncf/) [kubecon](https://meshery.io/blog/category/kubecon/) [cloudnativecon](https://meshery.io/blog/category/cloudnativecon/) [open-source](https://meshery.io/blog/category/open-source/) [Announcements](https://meshery.io/blog/category/announcements/) October 10, 2026
+[announcements](https://meshery.io/blog/category/announcements/) [cncf](https://meshery.io/blog/category/cncf/) [kubecon](https://meshery.io/blog/category/kubecon/) [cloudnativecon](https://meshery.io/blog/category/cloudnativecon/) [open-source](https://meshery.io/blog/category/open-source/) October 10, 2026
 
 It is official: the **Cloud Native Computing Foundation (CNCF) Technical Oversight Committee has voted to accept Meshery as an Incubating project**! This marks a massive milestone in our journey from a Sandbox project to becoming the premier cloud native manager and infrastructure management platform.
 
@@ -5130,7 +5121,7 @@ Meshery is now a CNCF Incubating project.
 - 
 ## [Meshery is now a CNCF Incubating Project](https://meshery.io/blog/2026/10/2026-10-10-meshery-is-now-incubating/)
 
-[announcements](https://meshery.io/blog/category/announcements/) [cncf](https://meshery.io/blog/category/cncf/) [kubecon](https://meshery.io/blog/category/kubecon/) [cloudnativecon](https://meshery.io/blog/category/cloudnativecon/) [open-source](https://meshery.io/blog/category/open-source/) [Announcements](https://meshery.io/blog/category/announcements/) October 10, 2026
+[announcements](https://meshery.io/blog/category/announcements/) [cncf](https://meshery.io/blog/category/cncf/) [kubecon](https://meshery.io/blog/category/kubecon/) [cloudnativecon](https://meshery.io/blog/category/cloudnativecon/) [open-source](https://meshery.io/blog/category/open-source/) October 10, 2026
 
 It is official: the **Cloud Native Computing Foundation (CNCF) Technical Oversight Committee has voted to accept Meshery as an Incubating project**! This marks a massive milestone in our journey from a Sandbox project to becoming the premier cloud native manager and infrastructure management platform.
 
@@ -5155,7 +5146,7 @@ Meshery is now a CNCF Incubating project.
 - 
 ## [Meshery is now a CNCF Incubating Project](https://meshery.io/blog/2026/10/2026-10-10-meshery-is-now-incubating/)
 
-[announcements](https://meshery.io/blog/category/announcements/) [cncf](https://meshery.io/blog/category/cncf/) [kubecon](https://meshery.io/blog/category/kubecon/) [cloudnativecon](https://meshery.io/blog/category/cloudnativecon/) [open-source](https://meshery.io/blog/category/open-source/) [Announcements](https://meshery.io/blog/category/announcements/) October 10, 2026
+[announcements](https://meshery.io/blog/category/announcements/) [cncf](https://meshery.io/blog/category/cncf/) [kubecon](https://meshery.io/blog/category/kubecon/) [cloudnativecon](https://meshery.io/blog/category/cloudnativecon/) [open-source](https://meshery.io/blog/category/open-source/) October 10, 2026
 
 It is official: the **Cloud Native Computing Foundation (CNCF) Technical Oversight Committee has voted to accept Meshery as an Incubating project**! This marks a massive milestone in our journey from a Sandbox project to becoming the premier cloud native manager and infrastructure management platform.
 
@@ -5239,13 +5230,13 @@ The launch of the [Certified Meshery Contributor (CMC)](https://cloud.meshery.io
 [Read More](https://meshery.io/blog/2026/01/2026-01-28-certified-meshery-contributors-share-their-experience/)
 
 - 
-## [Meshery, the Rocket Ship](https://meshery.io/blog/sixth-highest-velocity-cncf-project)
+## [Meshery, the Rocket Ship](https://meshery.io/blog/sixth-highest-velocity-cncf-project/)
 
 [community](https://meshery.io/blog/category/community/) [milestones](https://meshery.io/blog/category/milestones/) November 04, 2025
 
 Meshery, the extensible cloud native management platform, has achieved a remarkable milestone: recognition as the sixth highest-velocity project within the Cloud Native Computing Foundation (CNCF). This accomplishment is impressive for any project, but _especially noteworthy given Meshery’s Sandbox maturity level_ and its position among 237 CNCF projects! Just six months ago, we celebrated reaching the ninth spot in our [April 2025 announcement](https://meshery.io/blog/ninth-highest-velocity-cncf-project/). Climbing three ranks in such a short time underscores the project’s accelerating momentum and the unwavering dedication of our global community.
 
-[Read More](https://meshery.io/blog/sixth-highest-velocity-cncf-project)
+[Read More](https://meshery.io/blog/sixth-highest-velocity-cncf-project/)
 
 - 
 ## [Announcing the Certified Meshery Contributor (CMC)](https://meshery.io/blog/2025/10/2025-10-27-certified-meshery-contributor/)
@@ -5548,13 +5539,13 @@ Your AI agent is already driving your terminal. The question is whether the tool
 [Read More](https://meshery.io/blog/2026/11/2026-11-01-announcing-mesheryctl-axi/)
 
 - 
-## [The Meshery Umbrella Expands](https://meshery.io/blog/2025/meshery-ecosystem-expansion)
+## [The Meshery Umbrella Expands](https://meshery.io/blog/2025/meshery-ecosystem-expansion/)
 
 [meshery](https://meshery.io/blog/category/meshery/) [open-source](https://meshery.io/blog/category/open-source/) [governance](https://meshery.io/blog/category/governance/) [extensions](https://meshery.io/blog/category/extensions/) November 04, 2025
 
 Meshery’s [high project velocity](https://meshery.io/blog/sixth-highest-velocity-cncf-project) necessitates a revision in its governance and organizational structure to align with the scale of its growing complexity and community contributions. To best serve its expansive ecosystem, Meshery maintainers have opted to partition its numerous GitHub repositories into two distinct organizations: [Meshery](https://github.com/meshery) for the core platform and [Meshery Extensions](https://github.com/meshery-extensions) for [extensions](https://meshery.io/extensions).
 
-[Read More](https://meshery.io/blog/2025/meshery-ecosystem-expansion)
+[Read More](https://meshery.io/blog/2025/meshery-ecosystem-expansion/)
 
 ---
 
@@ -5607,13 +5598,13 @@ Meshery is now a CNCF Incubating project.
 [Governance](https://meshery.io/blog)
 
 - 
-## [The Meshery Umbrella Expands](https://meshery.io/blog/2025/meshery-ecosystem-expansion)
+## [The Meshery Umbrella Expands](https://meshery.io/blog/2025/meshery-ecosystem-expansion/)
 
 [meshery](https://meshery.io/blog/category/meshery/) [open-source](https://meshery.io/blog/category/open-source/) [governance](https://meshery.io/blog/category/governance/) [extensions](https://meshery.io/blog/category/extensions/) November 04, 2025
 
 Meshery’s [high project velocity](https://meshery.io/blog/sixth-highest-velocity-cncf-project) necessitates a revision in its governance and organizational structure to align with the scale of its growing complexity and community contributions. To best serve its expansive ecosystem, Meshery maintainers have opted to partition its numerous GitHub repositories into two distinct organizations: [Meshery](https://github.com/meshery) for the core platform and [Meshery Extensions](https://github.com/meshery-extensions) for [extensions](https://meshery.io/extensions).
 
-[Read More](https://meshery.io/blog/2025/meshery-ecosystem-expansion)
+[Read More](https://meshery.io/blog/2025/meshery-ecosystem-expansion/)
 
 ---
 
@@ -5634,7 +5625,7 @@ Meshery is now a CNCF Incubating project.
 - 
 ## [Meshery is now a CNCF Incubating Project](https://meshery.io/blog/2026/10/2026-10-10-meshery-is-now-incubating/)
 
-[announcements](https://meshery.io/blog/category/announcements/) [cncf](https://meshery.io/blog/category/cncf/) [kubecon](https://meshery.io/blog/category/kubecon/) [cloudnativecon](https://meshery.io/blog/category/cloudnativecon/) [open-source](https://meshery.io/blog/category/open-source/) [Announcements](https://meshery.io/blog/category/announcements/) October 10, 2026
+[announcements](https://meshery.io/blog/category/announcements/) [cncf](https://meshery.io/blog/category/cncf/) [kubecon](https://meshery.io/blog/category/kubecon/) [cloudnativecon](https://meshery.io/blog/category/cloudnativecon/) [open-source](https://meshery.io/blog/category/open-source/) October 10, 2026
 
 It is official: the **Cloud Native Computing Foundation (CNCF) Technical Oversight Committee has voted to accept Meshery as an Incubating project**! This marks a massive milestone in our journey from a Sandbox project to becoming the premier cloud native manager and infrastructure management platform.
 
@@ -5727,13 +5718,13 @@ In modern cloud-native environments, platform engineering teams face a persisten
 [Read More](https://meshery.io/blog/2026/02/2026-02-16-meshery-workspaces-enabling-cross-team-collaboration/)
 
 - 
-## [The Meshery Umbrella Expands](https://meshery.io/blog/2025/meshery-ecosystem-expansion)
+## [The Meshery Umbrella Expands](https://meshery.io/blog/2025/meshery-ecosystem-expansion/)
 
 [meshery](https://meshery.io/blog/category/meshery/) [open-source](https://meshery.io/blog/category/open-source/) [governance](https://meshery.io/blog/category/governance/) [extensions](https://meshery.io/blog/category/extensions/) November 04, 2025
 
 Meshery’s [high project velocity](https://meshery.io/blog/sixth-highest-velocity-cncf-project) necessitates a revision in its governance and organizational structure to align with the scale of its growing complexity and community contributions. To best serve its expansive ecosystem, Meshery maintainers have opted to partition its numerous GitHub repositories into two distinct organizations: [Meshery](https://github.com/meshery) for the core platform and [Meshery Extensions](https://github.com/meshery-extensions) for [extensions](https://meshery.io/extensions).
 
-[Read More](https://meshery.io/blog/2025/meshery-ecosystem-expansion)
+[Read More](https://meshery.io/blog/2025/meshery-ecosystem-expansion/)
 
 - 
 ## [Share Your Meshery Models](https://meshery.io/blog/2024/11/2024-11-06-contributing-to-meshery-models/)
@@ -5865,13 +5856,13 @@ Meshery is now a CNCF Incubating project.
 [Milestones](https://meshery.io/blog)
 
 - 
-## [Meshery, the Rocket Ship](https://meshery.io/blog/sixth-highest-velocity-cncf-project)
+## [Meshery, the Rocket Ship](https://meshery.io/blog/sixth-highest-velocity-cncf-project/)
 
 [community](https://meshery.io/blog/category/community/) [milestones](https://meshery.io/blog/category/milestones/) November 04, 2025
 
 Meshery, the extensible cloud native management platform, has achieved a remarkable milestone: recognition as the sixth highest-velocity project within the Cloud Native Computing Foundation (CNCF). This accomplishment is impressive for any project, but _especially noteworthy given Meshery’s Sandbox maturity level_ and its position among 237 CNCF projects! Just six months ago, we celebrated reaching the ninth spot in our [April 2025 announcement](https://meshery.io/blog/ninth-highest-velocity-cncf-project/). Climbing three ranks in such a short time underscores the project’s accelerating momentum and the unwavering dedication of our global community.
 
-[Read More](https://meshery.io/blog/sixth-highest-velocity-cncf-project)
+[Read More](https://meshery.io/blog/sixth-highest-velocity-cncf-project/)
 
 - 
 ## [Meshery Reaches 7,000 Stars](https://meshery.io/blog/2025/03/2025-3-31-meshery-reaches-7000-stars/)
@@ -5997,7 +5988,7 @@ Meshery is now a CNCF Incubating project.
 - 
 ## [Meshery is now a CNCF Incubating Project](https://meshery.io/blog/2026/10/2026-10-10-meshery-is-now-incubating/)
 
-[announcements](https://meshery.io/blog/category/announcements/) [cncf](https://meshery.io/blog/category/cncf/) [kubecon](https://meshery.io/blog/category/kubecon/) [cloudnativecon](https://meshery.io/blog/category/cloudnativecon/) [open-source](https://meshery.io/blog/category/open-source/) [Announcements](https://meshery.io/blog/category/announcements/) October 10, 2026
+[announcements](https://meshery.io/blog/category/announcements/) [cncf](https://meshery.io/blog/category/cncf/) [kubecon](https://meshery.io/blog/category/kubecon/) [cloudnativecon](https://meshery.io/blog/category/cloudnativecon/) [open-source](https://meshery.io/blog/category/open-source/) October 10, 2026
 
 It is official: the **Cloud Native Computing Foundation (CNCF) Technical Oversight Committee has voted to accept Meshery as an Incubating project**! This marks a massive milestone in our journey from a Sandbox project to becoming the premier cloud native manager and infrastructure management platform.
 
@@ -6022,13 +6013,13 @@ The launch of the [Certified Meshery Contributor (CMC)](https://cloud.meshery.io
 [Read More](https://meshery.io/blog/2026/01/2026-01-28-certified-meshery-contributors-share-their-experience/)
 
 - 
-## [The Meshery Umbrella Expands](https://meshery.io/blog/2025/meshery-ecosystem-expansion)
+## [The Meshery Umbrella Expands](https://meshery.io/blog/2025/meshery-ecosystem-expansion/)
 
 [meshery](https://meshery.io/blog/category/meshery/) [open-source](https://meshery.io/blog/category/open-source/) [governance](https://meshery.io/blog/category/governance/) [extensions](https://meshery.io/blog/category/extensions/) November 04, 2025
 
 Meshery’s [high project velocity](https://meshery.io/blog/sixth-highest-velocity-cncf-project) necessitates a revision in its governance and organizational structure to align with the scale of its growing complexity and community contributions. To best serve its expansive ecosystem, Meshery maintainers have opted to partition its numerous GitHub repositories into two distinct organizations: [Meshery](https://github.com/meshery) for the core platform and [Meshery Extensions](https://github.com/meshery-extensions) for [extensions](https://meshery.io/extensions).
 
-[Read More](https://meshery.io/blog/2025/meshery-ecosystem-expansion)
+[Read More](https://meshery.io/blog/2025/meshery-ecosystem-expansion/)
 
 - 
 ## [Announcing the Certified Meshery Contributor (CMC)](https://meshery.io/blog/2025/10/2025-10-27-certified-meshery-contributor/)
@@ -6399,216 +6390,216 @@ In modern cloud-native environments, platform engineering teams face a persisten
 
 ---
 
-## /blog/certified-meshery-contributor
+## /blog/certified-meshery-contributor/
 
-URL: https://meshery.io/blog/certified-meshery-contributor
+URL: https://meshery.io/blog/certified-meshery-contributor/
 
 # Redirecting…
 [Click here if you are not redirected.](https://meshery.io/blog/2025/10/2025-10-27-certified-meshery-contributor/)
 
 ---
 
-## /blog/certified-meshery-contributors-share-their-experience
+## /blog/certified-meshery-contributors-share-their-experience/
 
-URL: https://meshery.io/blog/certified-meshery-contributors-share-their-experience
+URL: https://meshery.io/blog/certified-meshery-contributors-share-their-experience/
 
 # Redirecting…
 [Click here if you are not redirected.](https://meshery.io/blog/2026/01/2026-01-28-certified-meshery-contributors-share-their-experience/)
 
 ---
 
-## /blog/changing-meshery-release-channels
+## /blog/changing-meshery-release-channels/
 
-URL: https://meshery.io/blog/changing-meshery-release-channels
+URL: https://meshery.io/blog/changing-meshery-release-channels/
 
 # Redirecting…
 [Click here if you are not redirected.](https://meshery.io/blog/2023/06/2023-06-16-changing-meshery-release-channels/)
 
 ---
 
-## /blog/designs-on-artifact-hub
+## /blog/designs-on-artifact-hub/
 
-URL: https://meshery.io/blog/designs-on-artifact-hub
+URL: https://meshery.io/blog/designs-on-artifact-hub/
 
 # Redirecting…
 [Click here if you are not redirected.](https://meshery.io/blog/2024/04/2024-04-09-designs-on-artifacthub/)
 
 ---
 
-## /blog/digitalocean-adopts-meshery
+## /blog/digitalocean-adopts-meshery/
 
-URL: https://meshery.io/blog/digitalocean-adopts-meshery
+URL: https://meshery.io/blog/digitalocean-adopts-meshery/
 
 # Redirecting…
 [Click here if you are not redirected.](https://meshery.io/blog/2025/05/2025-05-28-digitalocean-adopts-meshery/)
 
 ---
 
-## /blog/getting-started-with-service-mesh-performance-analysis
+## /blog/getting-started-with-service-mesh-performance-analysis/
 
-URL: https://meshery.io/blog/getting-started-with-service-mesh-performance-analysis
+URL: https://meshery.io/blog/getting-started-with-service-mesh-performance-analysis/
 
 # Redirecting…
 [Click here if you are not redirected.](https://meshery.io/blog/2020/07/2020-07-30-analyzing-with-smp/)
 
 ---
 
-## /blog/hacktoberfest-2025-kickoff
+## /blog/hacktoberfest-2025-kickoff/
 
-URL: https://meshery.io/blog/hacktoberfest-2025-kickoff
+URL: https://meshery.io/blog/hacktoberfest-2025-kickoff/
 
 # Redirecting…
 [Click here if you are not redirected.](https://meshery.io/blog/2025/09/2025-09-30-navigating-hacktoberfest-2025/)
 
 ---
 
-## /blog/harnessing-organizations-for-multi-tenancy
+## /blog/harnessing-organizations-for-multi-tenancy/
 
-URL: https://meshery.io/blog/harnessing-organizations-for-multi-tenancy
+URL: https://meshery.io/blog/harnessing-organizations-for-multi-tenancy/
 
 # Redirecting…
 [Click here if you are not redirected.](https://meshery.io/blog/2025/02/2025-02-17-harnessing-organizations-for-multi-tenancy/)
 
 ---
 
-## /blog/improving-meshery-ui-e2e-tests
+## /blog/improving-meshery-ui-e2e-tests/
 
-URL: https://meshery.io/blog/improving-meshery-ui-e2e-tests
+URL: https://meshery.io/blog/improving-meshery-ui-e2e-tests/
 
 # Redirecting…
 [Click here if you are not redirected.](https://meshery.io/blog/2025/04/2025-04-01-improving-mesherys-ui-e2e-tests/)
 
 ---
 
-## /blog/infrastructure-design-by-meshery
+## /blog/infrastructure-design-by-meshery/
 
-URL: https://meshery.io/blog/infrastructure-design-by-meshery
+URL: https://meshery.io/blog/infrastructure-design-by-meshery/
 
 # Redirecting…
 [Click here if you are not redirected.](https://meshery.io/blog/2024/08/2024-08-14-infrastructure-design-by-meshery/)
 
 ---
 
-## /blog/lego-bricks-and-lego-instructions
+## /blog/lego-bricks-and-lego-instructions/
 
-URL: https://meshery.io/blog/lego-bricks-and-lego-instructions
+URL: https://meshery.io/blog/lego-bricks-and-lego-instructions/
 
 # Redirecting…
 [Click here if you are not redirected.](https://meshery.io/blog/2024/03/2024-03-29-models-designs-legos/)
 
 ---
 
-## /blog/meshery-is-not-a-service-mesh-manager
+## /blog/meshery-is-not-a-service-mesh-manager/
 
-URL: https://meshery.io/blog/meshery-is-not-a-service-mesh-manager
+URL: https://meshery.io/blog/meshery-is-not-a-service-mesh-manager/
 
 # Redirecting…
 [Click here if you are not redirected.](https://meshery.io/blog/2024/10/2024-10-01-meshery-is-not-a-service-mesh-manager/)
 
 ---
 
-## /blog/meshery-reaches-7000-stars
+## /blog/meshery-reaches-7000-stars/
 
-URL: https://meshery.io/blog/meshery-reaches-7000-stars
+URL: https://meshery.io/blog/meshery-reaches-7000-stars/
 
 # Redirecting…
 [Click here if you are not redirected.](https://meshery.io/blog/2025/03/2025-3-31-meshery-reaches-7000-stars/)
 
 ---
 
-## /blog/meshery-security-slam-kubecon-eu-2025
+## /blog/meshery-security-slam-kubecon-eu-2025/
 
-URL: https://meshery.io/blog/meshery-security-slam-kubecon-eu-2025
+URL: https://meshery.io/blog/meshery-security-slam-kubecon-eu-2025/
 
 # Redirecting…
 [Click here if you are not redirected.](https://meshery.io/blog/2025/03/2025-03-27-meshery-at-kubecon-eu-2025-security-slam/)
 
 ---
 
-## /blog/meshery-v06-release
+## /blog/meshery-v06-release/
 
-URL: https://meshery.io/blog/meshery-v06-release
+URL: https://meshery.io/blog/meshery-v06-release/
 
 # Redirecting…
 [Click here if you are not redirected.](https://meshery.io/blog/2022/10/2022-10-24-meshery-v0-6-release/)
 
 ---
 
-## /blog/meshery-v07-release-announcement
+## /blog/meshery-v07-release-announcement/
 
-URL: https://meshery.io/blog/meshery-v07-release-announcement
+URL: https://meshery.io/blog/meshery-v07-release-announcement/
 
 # Redirecting…
 [Click here if you are not redirected.](https://meshery.io/blog/2023/12/2023-12-22-meshery-v07-release-announcement/)
 
 ---
 
-## /blog/meshery-v080-release-announcement
+## /blog/meshery-v080-release-announcement/
 
-URL: https://meshery.io/blog/meshery-v080-release-announcement
+URL: https://meshery.io/blog/meshery-v080-release-announcement/
 
 # Redirecting…
 [Click here if you are not redirected.](https://meshery.io/blog/2024/12/2024-12-20-meshery-v0-8-0-release-announcement/)
 
 ---
 
-## /blog/mesheryctl-model-init-explained
+## /blog/mesheryctl-model-init-explained/
 
-URL: https://meshery.io/blog/mesheryctl-model-init-explained
+URL: https://meshery.io/blog/mesheryctl-model-init-explained/
 
 # Redirecting…
 [Click here if you are not redirected.](https://meshery.io/blog/2025/10/2025-10-29-mesheryctl-model-init/)
 
 ---
 
-## /blog/mesheryctl-new-cmds-org-workspace
+## /blog/mesheryctl-new-cmds-org-workspace/
 
-URL: https://meshery.io/blog/mesheryctl-new-cmds-org-workspace
+URL: https://meshery.io/blog/mesheryctl-new-cmds-org-workspace/
 
 # Redirecting…
 [Click here if you are not redirected.](https://meshery.io/blog/2025/11/2025-10-31-mesheryctl-new-cmds-org-workspace/)
 
 ---
 
-## /blog/mesheryctl-relationship-commands-promoted
+## /blog/mesheryctl-relationship-commands-promoted/
 
-URL: https://meshery.io/blog/mesheryctl-relationship-commands-promoted
+URL: https://meshery.io/blog/mesheryctl-relationship-commands-promoted/
 
 # Redirecting…
 [Click here if you are not redirected.](https://meshery.io/blog/2026/03/2026-03-10-mesheryctl-relationship-cmds/)
 
 ---
 
-## /blog/mesheryctl-system-provider
+## /blog/mesheryctl-system-provider/
 
-URL: https://meshery.io/blog/mesheryctl-system-provider
+URL: https://meshery.io/blog/mesheryctl-system-provider/
 
 # Redirecting…
 [Click here if you are not redirected.](https://meshery.io/blog/2023/01/2023-01-09-meshery-system-provider/)
 
 ---
 
-## /blog/meshmark-explained
+## /blog/meshmark-explained/
 
-URL: https://meshery.io/blog/meshmark-explained
+URL: https://meshery.io/blog/meshmark-explained/
 
 # Redirecting…
 [Click here if you are not redirected.](https://meshery.io/blog/2020/05/2020-05-21-meshmark-explained/)
 
 ---
 
-## /blog/mshery-recognition-program
+## /blog/mshery-recognition-program/
 
-URL: https://meshery.io/blog/mshery-recognition-program
+URL: https://meshery.io/blog/mshery-recognition-program/
 
 # Redirecting…
 [Click here if you are not redirected.](https://meshery.io/blog/2023/09/2023-9-2-meshery-badge-program/)
 
 ---
 
-## /blog/ninth-highest-velocity-cncf-project
+## /blog/ninth-highest-velocity-cncf-project/
 
-URL: https://meshery.io/blog/ninth-highest-velocity-cncf-project
+URL: https://meshery.io/blog/ninth-highest-velocity-cncf-project/
 
 # Redirecting…
 [Click here if you are not redirected.](https://meshery.io/blog/2025/02/2025-02-01-ninth-highest-velocity-cncf-project/)
@@ -6641,22 +6632,22 @@ The launch of the [Certified Meshery Contributor (CMC)](https://cloud.meshery.io
 [Read More](https://meshery.io/blog/2026/01/2026-01-28-certified-meshery-contributors-share-their-experience/)
 
 - 
-## [The Meshery Umbrella Expands](https://meshery.io/blog/2025/meshery-ecosystem-expansion)
+## [The Meshery Umbrella Expands](https://meshery.io/blog/2025/meshery-ecosystem-expansion/)
 
 [meshery](https://meshery.io/blog/category/meshery/) [open-source](https://meshery.io/blog/category/open-source/) [governance](https://meshery.io/blog/category/governance/) [extensions](https://meshery.io/blog/category/extensions/) November 04, 2025
 
 Meshery’s [high project velocity](https://meshery.io/blog/sixth-highest-velocity-cncf-project) necessitates a revision in its governance and organizational structure to align with the scale of its growing complexity and community contributions. To best serve its expansive ecosystem, Meshery maintainers have opted to partition its numerous GitHub repositories into two distinct organizations: [Meshery](https://github.com/meshery) for the core platform and [Meshery Extensions](https://github.com/meshery-extensions) for [extensions](https://meshery.io/extensions).
 
-[Read More](https://meshery.io/blog/2025/meshery-ecosystem-expansion)
+[Read More](https://meshery.io/blog/2025/meshery-ecosystem-expansion/)
 
 - 
-## [Meshery, the Rocket Ship](https://meshery.io/blog/sixth-highest-velocity-cncf-project)
+## [Meshery, the Rocket Ship](https://meshery.io/blog/sixth-highest-velocity-cncf-project/)
 
 [community](https://meshery.io/blog/category/community/) [milestones](https://meshery.io/blog/category/milestones/) November 04, 2025
 
 Meshery, the extensible cloud native management platform, has achieved a remarkable milestone: recognition as the sixth highest-velocity project within the Cloud Native Computing Foundation (CNCF). This accomplishment is impressive for any project, but _especially noteworthy given Meshery’s Sandbox maturity level_ and its position among 237 CNCF projects! Just six months ago, we celebrated reaching the ninth spot in our [April 2025 announcement](https://meshery.io/blog/ninth-highest-velocity-cncf-project/). Climbing three ranks in such a short time underscores the project’s accelerating momentum and the unwavering dedication of our global community.
 
-[Read More](https://meshery.io/blog/sixth-highest-velocity-cncf-project)
+[Read More](https://meshery.io/blog/sixth-highest-velocity-cncf-project/)
 
 - 
 ## [Meshery CLI Commands for Organization, Workspaces, and Connections](https://meshery.io/blog/2025/11/2025-10-31-mesheryctl-new-cmds-org-workspace/)
@@ -6722,7 +6713,6 @@ If you are new to the Meshery ecosystem and want to create your own models, this
 - [cncf (1)](https://meshery.io/blog/category/cncf)
 - [cloudnativecon (1)](https://meshery.io/blog/category/cloudnativecon)
 - [cloud (1)](https://meshery.io/blog/category/cloud)
-- [Announcements (1)](https://meshery.io/blog/category/announcements)
 
 ### Browse by date
 
@@ -6748,8 +6738,8 @@ If you are new to the Meshery ecosystem and want to create your own models, this
 
 - #2025
   - November
-    - [The Meshery Umbrella Expands](https://meshery.io/blog/2025/meshery-ecosystem-expansion)
-    - [Meshery, the Rocket Ship](https://meshery.io/blog/sixth-highest-velocity-cncf-project)
+    - [The Meshery Umbrella Expands](https://meshery.io/blog/2025/meshery-ecosystem-expansion/)
+    - [Meshery, the Rocket Ship](https://meshery.io/blog/sixth-highest-velocity-cncf-project/)
     - [Meshery CLI Commands for Organization, Workspaces, and Connections](https://meshery.io/blog/2025/11/2025-10-31-mesheryctl-new-cmds-org-workspace/)
 
   - October
@@ -6967,7 +6957,6 @@ We’re thrilled to announce that Meshery has been selected as one of four CNCF 
 - [cncf (1)](https://meshery.io/blog/category/cncf)
 - [cloudnativecon (1)](https://meshery.io/blog/category/cloudnativecon)
 - [cloud (1)](https://meshery.io/blog/category/cloud)
-- [Announcements (1)](https://meshery.io/blog/category/announcements)
 
 ### Browse by date
 
@@ -6993,8 +6982,8 @@ We’re thrilled to announce that Meshery has been selected as one of four CNCF 
 
 - #2025
   - November
-    - [The Meshery Umbrella Expands](https://meshery.io/blog/2025/meshery-ecosystem-expansion)
-    - [Meshery, the Rocket Ship](https://meshery.io/blog/sixth-highest-velocity-cncf-project)
+    - [The Meshery Umbrella Expands](https://meshery.io/blog/2025/meshery-ecosystem-expansion/)
+    - [Meshery, the Rocket Ship](https://meshery.io/blog/sixth-highest-velocity-cncf-project/)
     - [Meshery CLI Commands for Organization, Workspaces, and Connections](https://meshery.io/blog/2025/11/2025-10-31-mesheryctl-new-cmds-org-workspace/)
 
   - October
@@ -7211,7 +7200,6 @@ On Friday, August 20, 2024, join us for a special enlightning session titled **I
 - [cncf (1)](https://meshery.io/blog/category/cncf)
 - [cloudnativecon (1)](https://meshery.io/blog/category/cloudnativecon)
 - [cloud (1)](https://meshery.io/blog/category/cloud)
-- [Announcements (1)](https://meshery.io/blog/category/announcements)
 
 ### Browse by date
 
@@ -7237,8 +7225,8 @@ On Friday, August 20, 2024, join us for a special enlightning session titled **I
 
 - #2025
   - November
-    - [The Meshery Umbrella Expands](https://meshery.io/blog/2025/meshery-ecosystem-expansion)
-    - [Meshery, the Rocket Ship](https://meshery.io/blog/sixth-highest-velocity-cncf-project)
+    - [The Meshery Umbrella Expands](https://meshery.io/blog/2025/meshery-ecosystem-expansion/)
+    - [Meshery, the Rocket Ship](https://meshery.io/blog/sixth-highest-velocity-cncf-project/)
     - [Meshery CLI Commands for Organization, Workspaces, and Connections](https://meshery.io/blog/2025/11/2025-10-31-mesheryctl-new-cmds-org-workspace/)
 
   - October
@@ -7455,7 +7443,6 @@ As an extensible engineering platform, Meshery’s focus on flexibility and adap
 - [cncf (1)](https://meshery.io/blog/category/cncf)
 - [cloudnativecon (1)](https://meshery.io/blog/category/cloudnativecon)
 - [cloud (1)](https://meshery.io/blog/category/cloud)
-- [Announcements (1)](https://meshery.io/blog/category/announcements)
 
 ### Browse by date
 
@@ -7481,8 +7468,8 @@ As an extensible engineering platform, Meshery’s focus on flexibility and adap
 
 - #2025
   - November
-    - [The Meshery Umbrella Expands](https://meshery.io/blog/2025/meshery-ecosystem-expansion)
-    - [Meshery, the Rocket Ship](https://meshery.io/blog/sixth-highest-velocity-cncf-project)
+    - [The Meshery Umbrella Expands](https://meshery.io/blog/2025/meshery-ecosystem-expansion/)
+    - [Meshery, the Rocket Ship](https://meshery.io/blog/sixth-highest-velocity-cncf-project/)
     - [Meshery CLI Commands for Organization, Workspaces, and Connections](https://meshery.io/blog/2025/11/2025-10-31-mesheryctl-new-cmds-org-workspace/)
 
   - October
@@ -7592,111 +7579,66 @@ Explore Meshery and all CNCF projects
 
 ---
 
-## /blog/pipelining-service-mesh-specifications
+## /blog/pipelining-service-mesh-specifications/
 
-URL: https://meshery.io/blog/pipelining-service-mesh-specifications
+URL: https://meshery.io/blog/pipelining-service-mesh-specifications/
 
 # Redirecting…
 [Click here if you are not redirected.](https://meshery.io/blog/2022/01/2022-01-26-pipelining-service-mesh-specifications/)
 
 ---
 
-## /blog/service-mesh-offers-promising-solution-for-cloud-native-networking
+## /blog/service-mesh-offers-promising-solution-for-cloud-native-networking/
 
-URL: https://meshery.io/blog/service-mesh-offers-promising-solution-for-cloud-native-networking
+URL: https://meshery.io/blog/service-mesh-offers-promising-solution-for-cloud-native-networking/
 
 # Redirecting…
 [Click here if you are not redirected.](https://meshery.io/blog/2020/12/2020-12-04-service-mesh-offers-promising-solution-for-cloud-native-networking/)
 
 ---
 
-## /blog/share-your-meshery-models
+## /blog/share-your-meshery-models/
 
-URL: https://meshery.io/blog/share-your-meshery-models
+URL: https://meshery.io/blog/share-your-meshery-models/
 
 # Redirecting…
 [Click here if you are not redirected.](https://meshery.io/blog/2024/11/2024-11-06-contributing-to-meshery-models/)
 
 ---
 
-## /blog/simplifying-cloud-infrastructure-and-kubernetes-management
+## /blog/simplifying-cloud-infrastructure-and-kubernetes-management/
 
-URL: https://meshery.io/blog/simplifying-cloud-infrastructure-and-kubernetes-management
+URL: https://meshery.io/blog/simplifying-cloud-infrastructure-and-kubernetes-management/
 
 # Redirecting…
 [Click here if you are not redirected.](https://meshery.io/blog/2024/01/2024-02-17-simplifying-cloud-infrastructure-and-kubernetes-management/)
 
 ---
 
-## /blog/spotlight-shape-builder-extension
+## /blog/spotlight-shape-builder-extension/
 
-URL: https://meshery.io/blog/spotlight-shape-builder-extension
+URL: https://meshery.io/blog/spotlight-shape-builder-extension/
 
 # Redirecting…
 [Click here if you are not redirected.](https://meshery.io/blog/2026/06/2026-06-28-spotlight-shape-builder-extension/)
 
 ---
 
-## /blog/unleashing-power-and-flexibility-the-synergy-of-rest-and-graphql-in-meshery
+## /blog/unleashing-power-and-flexibility-the-synergy-of-rest-and-graphql-in-meshery/
 
-URL: https://meshery.io/blog/unleashing-power-and-flexibility-the-synergy-of-rest-and-graphql-in-meshery
+URL: https://meshery.io/blog/unleashing-power-and-flexibility-the-synergy-of-rest-and-graphql-in-meshery/
 
 # Redirecting…
 [Click here if you are not redirected.](https://meshery.io/blog/2023/12/2023-12-08-graphql-and-rest-apis/)
 
 ---
 
-## /blog/validating-smi-conformance-with-meshery
+## /blog/validating-smi-conformance-with-meshery/
 
-URL: https://meshery.io/blog/validating-smi-conformance-with-meshery
+URL: https://meshery.io/blog/validating-smi-conformance-with-meshery/
 
 # Redirecting…
 [Click here if you are not redirected.](https://meshery.io/blog/2021/04/2021-04-26-validating-smi-conformance-with-meshery/)
-
----
-
-## /brand
-
-URL: https://meshery.io/brand
-
-# Redirecting…
-[Click here if you are not redirected.](https://meshery.io/brand/)
-
----
-
-## /calendar
-
-URL: https://meshery.io/calendar
-
-# Redirecting…
-[Click here if you are not redirected.](https://meshery.io/calendar/)
-
----
-
-## /catalog/designs
-
-URL: https://meshery.io/catalog/designs
-
-# Redirecting…
-[Click here if you are not redirected.](https://meshery.io/catalog/designs/)
-
----
-
-## /catalog/webassembly
-
-URL: https://meshery.io/catalog/webassembly
-
-# Redirecting…
-[Click here if you are not redirected.](https://meshery.io/catalog/webassembly/)
-
----
-
-## /charts
-
-URL: https://meshery.io/charts
-
-# Redirecting…
-[Click here if you are not redirected.](https://meshery.io/charts/)
 
 ---
 
@@ -7706,15 +7648,6 @@ URL: https://meshery.io/community/badges
 
 # Redirecting…
 [Click here if you are not redirected.](https://meshery.io/community/recognition/)
-
----
-
-## /community/certifications
-
-URL: https://meshery.io/community/certifications
-
-# Redirecting…
-[Click here if you are not redirected.](https://meshery.io/community/certifications/)
 
 ---
 
@@ -7782,15 +7715,6 @@ Certification badges are part of Meshery’s broader [Recognition Program](https
 
 ---
 
-## /community/leaderboard
-
-URL: https://meshery.io/community/leaderboard
-
-# Redirecting…
-[Click here if you are not redirected.](https://meshery.io/community/leaderboard/)
-
----
-
 ## Community Leaderboard
 
 URL: https://meshery.io/community/leaderboard/
@@ -7815,34 +7739,7 @@ Search leaderboard by username
 
 No activity for this period yet.
 
-Last updated: November 9, 2026
-
----
-
-## /community/meshmates
-
-URL: https://meshery.io/community/meshmates
-
-# Redirecting…
-[Click here if you are not redirected.](https://meshery.io/community/meshmates/)
-
----
-
-## /community/newcomers
-
-URL: https://meshery.io/community/newcomers
-
-# Redirecting…
-[Click here if you are not redirected.](https://meshery.io/community/newcomers/)
-
----
-
-## /community/recognition
-
-URL: https://meshery.io/community/recognition
-
-# Redirecting…
-[Click here if you are not redirected.](https://meshery.io/community/recognition/)
+Last updated: November 11, 2026
 
 ---
 
@@ -7883,15 +7780,6 @@ URL: https://meshery.io/extensions/github-action-perf
 
 ---
 
-## /features
-
-URL: https://meshery.io/features
-
-# Redirecting…
-[Click here if you are not redirected.](https://meshery.io/features/)
-
----
-
 ## Integrations
 
 URL: https://meshery.io/integrations
@@ -7927,24 +7815,6 @@ URL: https://meshery.io/newcomer
 
 ---
 
-## /newcomers
-
-URL: https://meshery.io/newcomers
-
-# Redirecting…
-[Click here if you are not redirected.](https://meshery.io/newcomers/)
-
----
-
-## /service-mesh-interface
-
-URL: https://meshery.io/service-mesh-interface
-
-# Redirecting…
-[Click here if you are not redirected.](https://meshery.io/service-mesh-interface/)
-
----
-
 ## /smi
 
 URL: https://meshery.io/smi
@@ -7954,39 +7824,12 @@ URL: https://meshery.io/smi
 
 ---
 
-## /subscribe
-
-URL: https://meshery.io/subscribe
-
-# Redirecting…
-[Click here if you are not redirected.](https://meshery.io/subscribe/)
-
----
-
 ## /talks-and-presentations
 
 URL: https://meshery.io/talks-and-presentations
 
 # Redirecting…
 [Click here if you are not redirected.](https://meshery.io/talks-and-trainings/)
-
----
-
-## /talks-and-trainings
-
-URL: https://meshery.io/talks-and-trainings
-
-# Redirecting…
-[Click here if you are not redirected.](https://meshery.io/talks-and-trainings/)
-
----
-
-## /thank-you
-
-URL: https://meshery.io/thank-you
-
-# Redirecting…
-[Click here if you are not redirected.](https://meshery.io/thank-you/)
 
 ---
 
@@ -66718,7 +66561,71 @@ deployment
 
 ` 
 
-[« my first app design](https://meshery.io/catalog/deployment/my-first-app-design-114c94c9-052b-46a2-86fe-4cdd2e88c746.html)[Kyverno Policy Engine »](https://meshery.io/catalog/deployment/kyverno-policy-engine-12250207-b931-43b6-b3c2-a3dbc0ab775a.html)
+[« Portable Ai Interface gateway](https://meshery.io/catalog/deployment/portable-ai-interface-gateway-11c27e2d-7354-4eff-a7f1-4e6a65fe1e3b.html)[Kyverno Policy Engine »](https://meshery.io/catalog/deployment/kyverno-policy-engine-12250207-b931-43b6-b3c2-a3dbc0ab775a.html)
+
+---
+
+## Portable Ai Interface gateway
+
+URL: https://meshery.io/catalog/deployment/portable-ai-interface-gateway-11c27e2d-7354-4eff-a7f1-4e6a65fe1e3b.html
+
+Meshery is now a CNCF Incubating project.
+
+[Read the announcement](https://www.cncf.io/blog/2026/10/07/meshery-becomes-a-cncf-incubating-project/)
+
+ × 
+
+[&nbsp;](https://meshery.io/)
+
+[← Back To Designs](https://meshery.io/catalog/designs)
+
+# Portable Ai Interface gateway
+
+[Open in Playground](https://playground.meshery.io/extension/meshmap?mode=design&type=catalog&id=11c27e2d-7354-4eff-a7f1-4e6a65fe1e3b&name=Portable%20Ai%20Interface%20gateway)[Download design](https://raw.githubusercontent.com/meshery/meshery.io/master/catalog/11c27e2d-7354-4eff-a7f1-4e6a65fe1e3b/0.0.2/design.yml)`mesheryctl design import -f https://raw.githubusercontent.com/meshery/meshery.io/master/catalog/11c27e2d-7354-4eff-a7f1-4e6a65fe1e3b/0.0.2/design.yml`
+
+### What This Design Does:
+
+A Kubernetes-based reference architecture for deploying a portable AI inference gateway. The design provides a centralized entry point for inference requests and routes traffic to an independently managed model-serving backend. It includes an Ingress resource for external access, gateway and model-server Deployments, Services for internal communication, and supporting resources for configuration management, identity, security, autoscaling, and availability. The architecture demonstrates how AI inference workloads can be organized using Kubernetes-native components while maintaining separation between request routing and model serving. It is intended as a reusable starting point for teams building self-hosted AI inference infrastructure.
+
+#### Design Snapshot
+
+### Caveats and Consideration:
+
+Caveats This design is a reference architecture and is not a fully production-ready AI inference platform. The model-server workload currently uses a placeholder HTTP container rather than an actual machine learning model runtime. It must be replaced with a compatible inference server such as vLLM, KServe, or another model-serving solution before handling real AI inference requests. The Ingress resource requires a compatible Ingress Controller in the target cluster. Horizontal Pod Autoscaling requires a functioning metrics API and appropriate resource requests. NetworkPolicy enforcement depends on CNI support. The Secret contains placeholder configuration and must be populated with appropriate credentials before production use. No real API keys or sensitive credentials should be stored in the design. A successful Meshery dry-run validates resource compatibility with the tested Kubernetes environment but does not guarantee successful runtime deployment, application functionality, security, or performance. Considerations Before deploying this design, consider the following: 1. Replace the placeholder model-server container with an appropriate inference runtime and configure the required model, storage, and serving parameters. 2. Configure resource requests and limits for gateway and model-server workloads to support predictable scheduling and effective autoscaling. 3. Configure the HorizontalPodAutoscaler according to expected inference traffic, available cluster capacity, and supported resource metrics. 4. Configure TLS termination, authentication, authorization, and rate limiting at the gateway or Ingress layer before exposing inference endpoints externally. 5. Review NetworkPolicy ingress and egress rules to ensure that only authorized workloads can communicate with the model-serving backend. 6. Use a secure secrets-management solution to provide API credentials and other sensitive configuration. 7. Configure health checks, logging, monitoring, and tracing to observe gateway availability and inference request performance. 8. Verify Kubernetes API compatibility, Ingress Controller availability, CNI support, and resource permissions in the target environment before deployment. 9. Test the architecture in a staging environment before adopting it in production.
+
+### Compatibility:
+
+[](https://meshery.io/catalog/models/kubernetes)
+
+[Open in Playground](https://playground.meshery.io/extension/meshmap?mode=design&type=catalog&id=11c27e2d-7354-4eff-a7f1-4e6a65fe1e3b&name=Portable%20Ai%20Interface%20gateway)[Download](https://meshery.io/catalog/11c27e2d-7354-4eff-a7f1-4e6a65fe1e3b/0.0.2/design.yml)
+  Copy URL  
+
+#### Design Details
+
+- CATEGORY
+
+- CREATED BY
+
+- CREATED AT
+
+- VERSION
+
+- MODELS
+
+#### Related Designs
+[ 
+
+deployment
+
+##### vault-0.30.1.tgz
+
+###### MESHERY40c7
+
+ ](https://meshery.io/catalog/deployment/vault-0-30-1-tgz-00fadfee-3655-40c7-8a38-6c5cd72ea4da.html)
+
+` 
+
+[« my first app design](https://meshery.io/catalog/deployment/my-first-app-design-114c94c9-052b-46a2-86fe-4cdd2e88c746.html)[dremio-helm »](https://meshery.io/catalog/deployment/dremio-helm-11d54f4a-129a-43f5-9c17-7e7518202ea6.html)
 
 ---
 
@@ -66782,7 +66689,7 @@ deployment
 
 ` 
 
-[« Oracle e-commerce microservices on kubernetes](https://meshery.io/catalog/deployment/oracle-e-commerce-microservices-on-kubernetes-10caf581-6498-4a1f-a00a-76011b60af48.html)[dremio-helm »](https://meshery.io/catalog/deployment/dremio-helm-11d54f4a-129a-43f5-9c17-7e7518202ea6.html)
+[« Oracle e-commerce microservices on kubernetes](https://meshery.io/catalog/deployment/oracle-e-commerce-microservices-on-kubernetes-10caf581-6498-4a1f-a00a-76011b60af48.html)[Portable Ai Interface gateway »](https://meshery.io/catalog/deployment/portable-ai-interface-gateway-11c27e2d-7354-4eff-a7f1-4e6a65fe1e3b.html)
 
 ---
 
@@ -72195,6 +72102,19 @@ By sonal singh · Aug 16, 2023
 deployment
  
 
+### Portable Ai Interface gateway
+
+A Kubernetes-based reference architecture for deploying a portable AI inference gateway. The design provides a centra...
+
+  - kubernetes
+
+By Aditya Verma · Nov 9, 2026
+
+ ](https://meshery.io/catalog/deployment/portable-ai-interface-gateway-11c27e2d-7354-4eff-a7f1-4e6a65fe1e3b.html)
+- [ 
+deployment
+ 
+
 ### dremio-helm
 
 Dremio (OSS) deployed on Kubernetes via the official dremio\_v2 Helm chart. This Design represents a baseline installa...
@@ -77385,42 +77305,43 @@ Meshery is now a CNCF Incubating project.
 
 [&nbsp;](https://meshery.io/)
 
-Category: - [announcements (1)](https://meshery.io/category/announcements)
-- [announcements (5)](https://meshery.io/category/announcements)
-- [artifact-hub (2)](https://meshery.io/category/artifact-hub)
-- [cloud (1)](https://meshery.io/category/cloud)
-- [cloud-native (2)](https://meshery.io/category/cloud-native)
-- [cloudnativecon (1)](https://meshery.io/category/cloudnativecon)
-- [cncf (1)](https://meshery.io/category/cncf)
-- [collaboration (3)](https://meshery.io/category/collaboration)
-- [community (9)](https://meshery.io/category/community)
-- [continuous-integration (2)](https://meshery.io/category/continuous-integration)
-- [contributors (2)](https://meshery.io/category/contributors)
-- [designs (4)](https://meshery.io/category/designs)
-- [e2e-testing (1)](https://meshery.io/category/e2e-testing)
-- [events (2)](https://meshery.io/category/events)
-- [extensibility (3)](https://meshery.io/category/extensibility)
-- [extensions (2)](https://meshery.io/category/extensions)
-- [gitops (2)](https://meshery.io/category/gitops)
-- [governance (1)](https://meshery.io/category/governance)
-- [kubecon (4)](https://meshery.io/category/kubecon)
-- [kubernetes (1)](https://meshery.io/category/kubernetes)
-- [meshery (7)](https://meshery.io/category/meshery)
-- [mesheryctl (7)](https://meshery.io/category/mesheryctl)
-- [milestones (6)](https://meshery.io/category/milestones)
-- [models (2)](https://meshery.io/category/models)
-- [multi-tenancy (1)](https://meshery.io/category/multi-tenancy)
-- [open-source (7)](https://meshery.io/category/open-source)
-- [opensource (1)](https://meshery.io/category/opensource)
-- [performance (2)](https://meshery.io/category/performance)
-- [platform-engineering (3)](https://meshery.io/category/platform-engineering)
-- [playwright (1)](https://meshery.io/category/playwright)
-- [releases (6)](https://meshery.io/category/releases)
-- [security (1)](https://meshery.io/category/security)
-- [service-mesh (3)](https://meshery.io/category/service-mesh)
-- [specification (1)](https://meshery.io/category/specification)
-- [test (1)](https://meshery.io/category/test)
-- [workspaces (1)](https://meshery.io/category/workspaces)
+# Blog Categories
+
+- [announcements 5](https://meshery.io/blog/category/announcements/)
+- [artifact-hub 2](https://meshery.io/blog/category/artifact-hub/)
+- [cloud 1](https://meshery.io/blog/category/cloud/)
+- [cloud-native 2](https://meshery.io/blog/category/cloud-native/)
+- [cloudnativecon 1](https://meshery.io/blog/category/cloudnativecon/)
+- [cncf 1](https://meshery.io/blog/category/cncf/)
+- [collaboration 3](https://meshery.io/blog/category/collaboration/)
+- [community 9](https://meshery.io/blog/category/community/)
+- [continuous-integration 2](https://meshery.io/blog/category/continuous-integration/)
+- [contributors 2](https://meshery.io/blog/category/contributors/)
+- [designs 4](https://meshery.io/blog/category/designs/)
+- [e2e-testing 1](https://meshery.io/blog/category/e2e-testing/)
+- [events 2](https://meshery.io/blog/category/events/)
+- [extensibility 3](https://meshery.io/blog/category/extensibility/)
+- [extensions 2](https://meshery.io/blog/category/extensions/)
+- [gitops 2](https://meshery.io/blog/category/gitops/)
+- [governance 1](https://meshery.io/blog/category/governance/)
+- [kubecon 4](https://meshery.io/blog/category/kubecon/)
+- [kubernetes 1](https://meshery.io/blog/category/kubernetes/)
+- [meshery 7](https://meshery.io/blog/category/meshery/)
+- [mesheryctl 7](https://meshery.io/blog/category/mesheryctl/)
+- [milestones 6](https://meshery.io/blog/category/milestones/)
+- [models 2](https://meshery.io/blog/category/models/)
+- [multi-tenancy 1](https://meshery.io/blog/category/multi-tenancy/)
+- [open-source 7](https://meshery.io/blog/category/open-source/)
+- [opensource 1](https://meshery.io/blog/category/opensource/)
+- [performance 2](https://meshery.io/blog/category/performance/)
+- [platform-engineering 3](https://meshery.io/blog/category/platform-engineering/)
+- [playwright 1](https://meshery.io/blog/category/playwright/)
+- [releases 6](https://meshery.io/blog/category/releases/)
+- [security 1](https://meshery.io/blog/category/security/)
+- [service-mesh 3](https://meshery.io/blog/category/service-mesh/)
+- [specification 1](https://meshery.io/blog/category/specification/)
+- [test 1](https://meshery.io/blog/category/test/)
+- [workspaces 1](https://meshery.io/blog/category/workspaces/)
 
 ---
 
@@ -77474,7 +77395,7 @@ Import using mesheryctl, visit [docs](https://docs.meshery.io/guides/configurati
 
 Designs
 
- 397 
+ 398 
 
 Well-architected cloud-native designs and best practice templates.
 
@@ -77540,7 +77461,7 @@ Import using mesheryctl, visit [docs](https://docs.meshery.io/guides/configurati
 
 Designs
 
- 397 
+ 398 
 
 Well-architected cloud-native designs and best practice templates.
 
@@ -78757,7 +78678,7 @@ Meshery is now a CNCF Incubating project.
 
 ### Meshery has officially been accepted as a CNCF Incubating project! Read about our growth and join us at KubeCon + CloudNativeCon North America 2026.
 
-[announcements](https://meshery.io/blog/category/announcements/) [cncf](https://meshery.io/blog/category/cncf/) [kubecon](https://meshery.io/blog/category/kubecon/) [cloudnativecon](https://meshery.io/blog/category/cloudnativecon/) [open-source](https://meshery.io/blog/category/open-source/) [Announcements](https://meshery.io/blog/category/announcements/) Sangram Rath October 10, 2026
+[announcements](https://meshery.io/blog/category/announcements/) [cncf](https://meshery.io/blog/category/cncf/) [kubecon](https://meshery.io/blog/category/kubecon/) [cloudnativecon](https://meshery.io/blog/category/cloudnativecon/) [open-source](https://meshery.io/blog/category/open-source/) Sangram Rath October 10, 2026
 
 It is official: the **Cloud Native Computing Foundation (CNCF) Technical Oversight Committee has voted to accept Meshery as an Incubating project**! This marks a massive milestone in our journey from a Sandbox project to becoming the premier cloud native manager and infrastructure management platform.
 
@@ -79649,13 +79570,13 @@ Share
 
 [](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fmeshery.io%2Fblog%2F2026%2F01%2F2026-01-28-certified-meshery-contributors-share-their-experience%2F&summary=Certified+Meshery+Contributors+Share+Their+Experiences)[](https://x.com/intent/tweet?text=Certified+Meshery+Contributors+Share+Their+Experiences&url=https%3A%2F%2Fmeshery.io%2Fblog%2F2026%2F01%2F2026-01-28-certified-meshery-contributors-share-their-experience%2F&hashtags=meshery&via=mesheryio)[](https://bsky.app/intent/compose?text=Certified+Meshery+Contributors+Share+Their+Experiences+by+%40mesheryio.bsky.social+https%3A%2F%2Fmeshery.io%2Fblog%2F2026%2F01%2F2026-01-28-certified-meshery-contributors-share-their-experience%2F+)
 
-[« The Meshery Umbrella Expands](https://meshery.io/blog/2025/meshery-ecosystem-expansion)[Meshery Workspaces »](https://meshery.io/blog/2026/02/2026-02-16-meshery-workspaces-enabling-cross-team-collaboration/)
+[« The Meshery Umbrella Expands](https://meshery.io/blog/2025/meshery-ecosystem-expansion/)[Meshery Workspaces »](https://meshery.io/blog/2026/02/2026-02-16-meshery-workspaces-enabling-cross-team-collaboration/)
 
 ---
 
 ## The Meshery Umbrella Expands
 
-URL: https://meshery.io/blog/2025/meshery-ecosystem-expansion
+URL: https://meshery.io/blog/2025/meshery-ecosystem-expansion/
 
 Meshery is now a CNCF Incubating project.
 
@@ -79785,15 +79706,15 @@ Meshery’s partitioning of repositories into [github.com/meshery](https://githu
 
 Share
 
-[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fmeshery.io%2Fblog%2F2025%2Fmeshery-ecosystem-expansion&summary=The+Meshery+Umbrella+Expands)[](https://x.com/intent/tweet?text=The+Meshery+Umbrella+Expands&url=https%3A%2F%2Fmeshery.io%2Fblog%2F2025%2Fmeshery-ecosystem-expansion&hashtags=meshery&via=mesheryio)[](https://bsky.app/intent/compose?text=The+Meshery+Umbrella+Expands+by+%40mesheryio.bsky.social+https%3A%2F%2Fmeshery.io%2Fblog%2F2025%2Fmeshery-ecosystem-expansion+)
+[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fmeshery.io%2Fblog%2F2025%2Fmeshery-ecosystem-expansion%2F&summary=The+Meshery+Umbrella+Expands)[](https://x.com/intent/tweet?text=The+Meshery+Umbrella+Expands&url=https%3A%2F%2Fmeshery.io%2Fblog%2F2025%2Fmeshery-ecosystem-expansion%2F&hashtags=meshery&via=mesheryio)[](https://bsky.app/intent/compose?text=The+Meshery+Umbrella+Expands+by+%40mesheryio.bsky.social+https%3A%2F%2Fmeshery.io%2Fblog%2F2025%2Fmeshery-ecosystem-expansion%2F+)
 
-[« Meshery, the Rocket Ship](https://meshery.io/blog/sixth-highest-velocity-cncf-project)[Certified Meshery Contributors Share Their Experiences »](https://meshery.io/blog/2026/01/2026-01-28-certified-meshery-contributors-share-their-experience/)
+[« Meshery, the Rocket Ship](https://meshery.io/blog/sixth-highest-velocity-cncf-project/)[Certified Meshery Contributors Share Their Experiences »](https://meshery.io/blog/2026/01/2026-01-28-certified-meshery-contributors-share-their-experience/)
 
 ---
 
 ## Meshery, the Rocket Ship
 
-URL: https://meshery.io/blog/sixth-highest-velocity-cncf-project
+URL: https://meshery.io/blog/sixth-highest-velocity-cncf-project/
 
 Meshery is now a CNCF Incubating project.
 
@@ -79847,9 +79768,9 @@ For more details on our progress, revisit our [previous announcement](https://me
 
 Share
 
-[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fmeshery.io%2Fblog%2Fsixth-highest-velocity-cncf-project&summary=Meshery%2C+the+Rocket+Ship)[](https://x.com/intent/tweet?text=Meshery%2C+the+Rocket+Ship&url=https%3A%2F%2Fmeshery.io%2Fblog%2Fsixth-highest-velocity-cncf-project&hashtags=meshery&via=mesheryio)[](https://bsky.app/intent/compose?text=Meshery%2C+the+Rocket+Ship+by+%40mesheryio.bsky.social+https%3A%2F%2Fmeshery.io%2Fblog%2Fsixth-highest-velocity-cncf-project+)
+[](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fmeshery.io%2Fblog%2Fsixth-highest-velocity-cncf-project%2F&summary=Meshery%2C+the+Rocket+Ship)[](https://x.com/intent/tweet?text=Meshery%2C+the+Rocket+Ship&url=https%3A%2F%2Fmeshery.io%2Fblog%2Fsixth-highest-velocity-cncf-project%2F&hashtags=meshery&via=mesheryio)[](https://bsky.app/intent/compose?text=Meshery%2C+the+Rocket+Ship+by+%40mesheryio.bsky.social+https%3A%2F%2Fmeshery.io%2Fblog%2Fsixth-highest-velocity-cncf-project%2F+)
 
-[« Meshery CLI Commands for Organization, Workspaces, and Connections](https://meshery.io/blog/2025/11/2025-10-31-mesheryctl-new-cmds-org-workspace/)[The Meshery Umbrella Expands »](https://meshery.io/blog/2025/meshery-ecosystem-expansion)
+[« Meshery CLI Commands for Organization, Workspaces, and Connections](https://meshery.io/blog/2025/11/2025-10-31-mesheryctl-new-cmds-org-workspace/)[The Meshery Umbrella Expands »](https://meshery.io/blog/2025/meshery-ecosystem-expansion/)
 
 ---
 
@@ -80025,7 +79946,7 @@ Share
 
 [](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fmeshery.io%2Fblog%2F2025%2F11%2F2025-10-31-mesheryctl-new-cmds-org-workspace%2F&summary=Meshery+CLI+Commands+for+Organization%2C+Workspaces%2C+and+Connections)[](https://x.com/intent/tweet?text=Meshery+CLI+Commands+for+Organization%2C+Workspaces%2C+and+Connections&url=https%3A%2F%2Fmeshery.io%2Fblog%2F2025%2F11%2F2025-10-31-mesheryctl-new-cmds-org-workspace%2F&hashtags=meshery&via=mesheryio)[](https://bsky.app/intent/compose?text=Meshery+CLI+Commands+for+Organization%2C+Workspaces%2C+and+Connections+by+%40mesheryio.bsky.social+https%3A%2F%2Fmeshery.io%2Fblog%2F2025%2F11%2F2025-10-31-mesheryctl-new-cmds-org-workspace%2F+)
 
-[« Mesheryctl End-To-End Testing Introduction](https://meshery.io/blog/2025/10/2025-10-30-mesehryctl-e2e-test-introduction/)[Meshery, the Rocket Ship »](https://meshery.io/blog/sixth-highest-velocity-cncf-project)
+[« Mesheryctl End-To-End Testing Introduction](https://meshery.io/blog/2025/10/2025-10-30-mesehryctl-e2e-test-introduction/)[Meshery, the Rocket Ship »](https://meshery.io/blog/sixth-highest-velocity-cncf-project/)
 
 ---
 
