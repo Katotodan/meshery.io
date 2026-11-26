@@ -24,12 +24,12 @@
 <meta property="og:url" content="https://meshery.io/catalog/webassembly/" />
 <meta property="og:site_name" content="Meshery" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2026-11-18T09:02:26+00:00" />
-<meta property="article:modified_time" content="2026-11-18T09:02:26+00:00" />
+<meta property="article:published_time" content="2026-11-26T12:23:25+00:00" />
+<meta property="article:modified_time" content="2026-11-26T12:23:25+00:00" />
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content="Cloud Native Catalog" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"The Meshery Authors"},"dateModified":"2026-11-18T09:02:26+00:00","datePublished":"2026-11-18T09:02:26+00:00","description":"WASM FILTER HTTP Auth FILTER001 WASM FILTER &lt;/a&gt; &times; RELATED DESIGNS HTTP AUTH What this filter does Simulates handling authentication of requests at proxy level. Requests with a header token with value hello are accepted as authorized while the rest unauthorized. The actual authentication is handled by the Upstream server. Whenever the proxy receives a request it extracts the token header and makes a request to the Upstream server which validates the token and returns a response. ...read more Caveats and Considerations Test: curl -H &quot;token&quot;:&quot;hello&quot; 0.0.0.0:18000 -v # Authorized curl -H &quot;token&quot;:&quot;world&quot; 0.0.0.0:18000 -v # Unauthorized Technologies Related Design…","headline":"Cloud Native Catalog","mainEntityOfPage":{"@type":"WebPage","@id":"https://meshery.io/catalog/webassembly/"},"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://meshery.io/assets/images/logos/meshery-gradient.png"},"name":"The Meshery Authors"},"url":"https://meshery.io/catalog/webassembly/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"The Meshery Authors"},"dateModified":"2026-11-26T12:23:25+00:00","datePublished":"2026-11-26T12:23:25+00:00","description":"WASM FILTER HTTP Auth FILTER001 WASM FILTER &lt;/a&gt; &times; RELATED DESIGNS HTTP AUTH What this filter does Simulates handling authentication of requests at proxy level. Requests with a header token with value hello are accepted as authorized while the rest unauthorized. The actual authentication is handled by the Upstream server. Whenever the proxy receives a request it extracts the token header and makes a request to the Upstream server which validates the token and returns a response. ...read more Caveats and Considerations Test: curl -H &quot;token&quot;:&quot;hello&quot; 0.0.0.0:18000 -v # Authorized curl -H &quot;token&quot;:&quot;world&quot; 0.0.0.0:18000 -v # Unauthorized Technologies Related Design…","headline":"Cloud Native Catalog","mainEntityOfPage":{"@type":"WebPage","@id":"https://meshery.io/catalog/webassembly/"},"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://meshery.io/assets/images/logos/meshery-gradient.png"},"name":"The Meshery Authors"},"url":"https://meshery.io/catalog/webassembly/"}</script>
 <!-- End Jekyll SEO tag -->
  <link type="application/atom+xml" rel="alternate" href="https://meshery.io/feed.xml" title="Meshery" /> 
     <link rel="stylesheet" href="/css/stellarnav.css" />
@@ -728,7 +728,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    margin: 2rem;
+    margin: 1.25rem 0;
     color: var(--color-primary-dark);
   }
 
@@ -739,13 +739,8 @@
 
   .feature-container {
     gap: 40px;
-    margin-top: 5rem;
-  }
-
-  @media screen and (min-width: 600px) {
-    .feature-container {
-      min-height: 600px;
-    }
+    margin-top: 2.5rem;
+    margin-bottom: 2rem;
   }
 </style>
 <h2 class="catalog-heading">Cloud Native Design Catalog</h2>
@@ -792,7 +787,7 @@
 /* Style the tab */
 .tab {
   overflow: hidden;
-  background-color: #00D3A9;
+  background-color: var(--brand-color-primary);
 }
 
 /* Make the tab bar span the full modal width.
@@ -816,13 +811,13 @@
 
 /* Change background color of buttons on hover */
 .tab button:hover {
-  background-color: #00B39F;
+  background-color: var(--brand-color-secondary);
 }
 
 /* Create an active/current tablink class */
 .tab button.active {
   background-color: #1E2117;
-  color: "#fff"
+  color: #fff;
 }
 
 /* Style the tab content */
@@ -1012,7 +1007,7 @@ function openTab(evt, tabName) {
         >
           <p class="text-sm-medium title">Designs</p>
           <span class="count-text" style="color: #00b39f">
-            401
+            422
           </span>
         </div>
         <div style="height: 3rem; width: 5rem">
@@ -1239,7 +1234,7 @@ function openTab(evt, tabName) {
            <small class="pattern-type"> WASM FILTER</small>
        </div>
        <h4 class="pattern-name">HTTP Auth</h4>
-       <img class= "pattern-filter-image" src="https://raw.githubusercontent.com/meshery-extensions/meshery-extensions-packages/master/action-assets/design-assets/.png" onerror="this.src='/assets/images/webassembly_logo.svg'" loading="lazy"/>
+       <img class= "pattern-filter-image" src="https://cdn.jsdelivr.net/gh/meshery-extensions/meshery-extensions-packages@master/action-assets/design-assets/.png" onerror="this.src='/assets/images/webassembly_logo.svg'" loading="lazy" decoding="async"/>
        <div>
     
     <h6 class="pattern-id">
@@ -1279,15 +1274,58 @@ function openTab(evt, tabName) {
       
       <img
         class="image-class"
-        src="https://raw.githubusercontent.com/meshery-extensions/meshery-extensions-packages/master/action-assets/design-assets/.png"
+        src="https://cdn.jsdelivr.net/gh/meshery-extensions/meshery-extensions-packages@master/action-assets/design-assets/.png"
         onerror="this.src='/assets/images/webassembly_logo.svg'"
         loading="lazy"
+        decoding="async"
         onclick="toggleFullScreenImage('')"
       />
       
       <div class="related-patterns-img">
         <h4 class="related-patterns">RELATED DESIGNS</h4>
         <!-- more conditions will be needed to be added when more patterns are introduced.  -->
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
 
     
 
@@ -2941,6 +2979,48 @@ function openTab(evt, tabName) {
 
     
 
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
 
       </div>
    
@@ -3077,7 +3157,7 @@ function openTab(evt, tabName) {
            <small class="pattern-type"> WASM FILTER</small>
        </div>
        <h4 class="pattern-name">TCP Metrics</h4>
-       <img class= "pattern-filter-image" src="https://raw.githubusercontent.com/meshery-extensions/meshery-extensions-packages/master/action-assets/design-assets/.png" onerror="this.src='/assets/images/webassembly_logo.svg'" loading="lazy"/>
+       <img class= "pattern-filter-image" src="https://cdn.jsdelivr.net/gh/meshery-extensions/meshery-extensions-packages@master/action-assets/design-assets/.png" onerror="this.src='/assets/images/webassembly_logo.svg'" loading="lazy" decoding="async"/>
        <div>
     
     <h6 class="pattern-id">
@@ -3117,15 +3197,58 @@ function openTab(evt, tabName) {
       
       <img
         class="image-class"
-        src="https://raw.githubusercontent.com/meshery-extensions/meshery-extensions-packages/master/action-assets/design-assets/.png"
+        src="https://cdn.jsdelivr.net/gh/meshery-extensions/meshery-extensions-packages@master/action-assets/design-assets/.png"
         onerror="this.src='/assets/images/webassembly_logo.svg'"
         loading="lazy"
+        decoding="async"
         onclick="toggleFullScreenImage('')"
       />
       
       <div class="related-patterns-img">
         <h4 class="related-patterns">RELATED DESIGNS</h4>
         <!-- more conditions will be needed to be added when more patterns are introduced.  -->
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
 
     
 
@@ -4779,6 +4902,48 @@ function openTab(evt, tabName) {
 
     
 
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
 
       </div>
    
@@ -4915,7 +5080,7 @@ function openTab(evt, tabName) {
            <small class="pattern-type"> WASM FILTER</small>
        </div>
        <h4 class="pattern-name">TCP Packet Parse</h4>
-       <img class= "pattern-filter-image" src="https://raw.githubusercontent.com/meshery-extensions/meshery-extensions-packages/master/action-assets/design-assets/.png" onerror="this.src='/assets/images/webassembly_logo.svg'" loading="lazy"/>
+       <img class= "pattern-filter-image" src="https://cdn.jsdelivr.net/gh/meshery-extensions/meshery-extensions-packages@master/action-assets/design-assets/.png" onerror="this.src='/assets/images/webassembly_logo.svg'" loading="lazy" decoding="async"/>
        <div>
     
     <h6 class="pattern-id">
@@ -4955,15 +5120,58 @@ function openTab(evt, tabName) {
       
       <img
         class="image-class"
-        src="https://raw.githubusercontent.com/meshery-extensions/meshery-extensions-packages/master/action-assets/design-assets/.png"
+        src="https://cdn.jsdelivr.net/gh/meshery-extensions/meshery-extensions-packages@master/action-assets/design-assets/.png"
         onerror="this.src='/assets/images/webassembly_logo.svg'"
         loading="lazy"
+        decoding="async"
         onclick="toggleFullScreenImage('')"
       />
       
       <div class="related-patterns-img">
         <h4 class="related-patterns">RELATED DESIGNS</h4>
         <!-- more conditions will be needed to be added when more patterns are introduced.  -->
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
 
     
 
@@ -6617,6 +6825,48 @@ function openTab(evt, tabName) {
 
     
 
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
 
       </div>
    
@@ -6753,7 +7003,7 @@ function openTab(evt, tabName) {
            <small class="pattern-type"> WASM FILTER</small>
        </div>
        <h4 class="pattern-name">Singleton HTTP Call</h4>
-       <img class= "pattern-filter-image" src="https://raw.githubusercontent.com/meshery-extensions/meshery-extensions-packages/master/action-assets/design-assets/.png" onerror="this.src='/assets/images/webassembly_logo.svg'" loading="lazy"/>
+       <img class= "pattern-filter-image" src="https://cdn.jsdelivr.net/gh/meshery-extensions/meshery-extensions-packages@master/action-assets/design-assets/.png" onerror="this.src='/assets/images/webassembly_logo.svg'" loading="lazy" decoding="async"/>
        <div>
     
     <h6 class="pattern-id">
@@ -6793,15 +7043,58 @@ function openTab(evt, tabName) {
       
       <img
         class="image-class"
-        src="https://raw.githubusercontent.com/meshery-extensions/meshery-extensions-packages/master/action-assets/design-assets/.png"
+        src="https://cdn.jsdelivr.net/gh/meshery-extensions/meshery-extensions-packages@master/action-assets/design-assets/.png"
         onerror="this.src='/assets/images/webassembly_logo.svg'"
         loading="lazy"
+        decoding="async"
         onclick="toggleFullScreenImage('')"
       />
       
       <div class="related-patterns-img">
         <h4 class="related-patterns">RELATED DESIGNS</h4>
         <!-- more conditions will be needed to be added when more patterns are introduced.  -->
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
 
     
 
@@ -8455,6 +8748,48 @@ function openTab(evt, tabName) {
 
     
 
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
 
       </div>
    
@@ -8591,7 +8926,7 @@ function openTab(evt, tabName) {
            <small class="pattern-type"> WASM FILTER</small>
        </div>
        <h4 class="pattern-name">Metrics Store</h4>
-       <img class= "pattern-filter-image" src="https://raw.githubusercontent.com/meshery-extensions/meshery-extensions-packages/master/action-assets/design-assets/.png" onerror="this.src='/assets/images/webassembly_logo.svg'" loading="lazy"/>
+       <img class= "pattern-filter-image" src="https://cdn.jsdelivr.net/gh/meshery-extensions/meshery-extensions-packages@master/action-assets/design-assets/.png" onerror="this.src='/assets/images/webassembly_logo.svg'" loading="lazy" decoding="async"/>
        <div>
     
     <h6 class="pattern-id">
@@ -8631,15 +8966,58 @@ function openTab(evt, tabName) {
       
       <img
         class="image-class"
-        src="https://raw.githubusercontent.com/meshery-extensions/meshery-extensions-packages/master/action-assets/design-assets/.png"
+        src="https://cdn.jsdelivr.net/gh/meshery-extensions/meshery-extensions-packages@master/action-assets/design-assets/.png"
         onerror="this.src='/assets/images/webassembly_logo.svg'"
         loading="lazy"
+        decoding="async"
         onclick="toggleFullScreenImage('')"
       />
       
       <div class="related-patterns-img">
         <h4 class="related-patterns">RELATED DESIGNS</h4>
         <!-- more conditions will be needed to be added when more patterns are introduced.  -->
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
 
     
 
@@ -10293,6 +10671,48 @@ function openTab(evt, tabName) {
 
     
 
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
 
       </div>
    
@@ -10429,7 +10849,7 @@ function openTab(evt, tabName) {
            <small class="pattern-type"> WASM FILTER</small>
        </div>
        <h4 class="pattern-name">Singleton Queue</h4>
-       <img class= "pattern-filter-image" src="https://raw.githubusercontent.com/meshery-extensions/meshery-extensions-packages/master/action-assets/design-assets/.png" onerror="this.src='/assets/images/webassembly_logo.svg'" loading="lazy"/>
+       <img class= "pattern-filter-image" src="https://cdn.jsdelivr.net/gh/meshery-extensions/meshery-extensions-packages@master/action-assets/design-assets/.png" onerror="this.src='/assets/images/webassembly_logo.svg'" loading="lazy" decoding="async"/>
        <div>
     
     <h6 class="pattern-id">
@@ -10469,15 +10889,58 @@ function openTab(evt, tabName) {
       
       <img
         class="image-class"
-        src="https://raw.githubusercontent.com/meshery-extensions/meshery-extensions-packages/master/action-assets/design-assets/.png"
+        src="https://cdn.jsdelivr.net/gh/meshery-extensions/meshery-extensions-packages@master/action-assets/design-assets/.png"
         onerror="this.src='/assets/images/webassembly_logo.svg'"
         loading="lazy"
+        decoding="async"
         onclick="toggleFullScreenImage('')"
       />
       
       <div class="related-patterns-img">
         <h4 class="related-patterns">RELATED DESIGNS</h4>
         <!-- more conditions will be needed to be added when more patterns are introduced.  -->
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
 
     
 
@@ -12131,6 +12594,48 @@ function openTab(evt, tabName) {
 
     
 
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
 
       </div>
    
@@ -12267,7 +12772,7 @@ function openTab(evt, tabName) {
            <small class="pattern-type"> WASM FILTER</small>
        </div>
        <h4 class="pattern-name">JWT Filter</h4>
-       <img class= "pattern-filter-image" src="https://raw.githubusercontent.com/meshery-extensions/meshery-extensions-packages/master/action-assets/design-assets/.png" onerror="this.src='/assets/images/webassembly_logo.svg'" loading="lazy"/>
+       <img class= "pattern-filter-image" src="https://cdn.jsdelivr.net/gh/meshery-extensions/meshery-extensions-packages@master/action-assets/design-assets/.png" onerror="this.src='/assets/images/webassembly_logo.svg'" loading="lazy" decoding="async"/>
        <div>
     
     <h6 class="pattern-id">
@@ -12307,15 +12812,58 @@ function openTab(evt, tabName) {
       
       <img
         class="image-class"
-        src="https://raw.githubusercontent.com/meshery-extensions/meshery-extensions-packages/master/action-assets/design-assets/.png"
+        src="https://cdn.jsdelivr.net/gh/meshery-extensions/meshery-extensions-packages@master/action-assets/design-assets/.png"
         onerror="this.src='/assets/images/webassembly_logo.svg'"
         loading="lazy"
+        decoding="async"
         onclick="toggleFullScreenImage('')"
       />
       
       <div class="related-patterns-img">
         <h4 class="related-patterns">RELATED DESIGNS</h4>
         <!-- more conditions will be needed to be added when more patterns are introduced.  -->
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
 
     
 
@@ -13969,6 +14517,48 @@ function openTab(evt, tabName) {
 
     
 
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
 
       </div>
    
@@ -14186,7 +14776,7 @@ function openTab(evt, tabName) {
   border-radius: 7px;
   padding: 0.5rem;
   margin: 0 10px;
-  background: #00b39f;
+  background: var(--brand-color-secondary);
     }
     
 
